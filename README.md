@@ -1,5 +1,5 @@
 # ArcaseBot
-Arcase使用的QQ机器人项目，搭配[Arcaea-server](https://github.com/Lost-MSth/Arcaea-server)服务端，使用Python语言编写，基于[NcatBot](https://github.com/liyihao1110/ncatbot)框架，需要解压(NapCat)[https://github.com/NapNeko/NapCatQQ].Shell到NapCat文件夹。
+Arcase使用的QQ机器人项目，搭配[Arcaea-server](https://github.com/Lost-MSth/Arcaea-server)服务端，使用Python语言编写，基于[NcatBot](https://github.com/liyihao1110/ncatbot)框架，需要解压[NapCat](https://github.com/NapNeko/NapCatQQ0).Shell到NapCat文件夹。
 ## 功能
     ⭐<code>/a help</code>帮助菜单
     ⭐<code>/a register [用户名] [密码]</code>注册账号(<span class="rule-note">只能在Arcase | Suo Yuki群聊中使用</span>)
