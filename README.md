@@ -47,5 +47,5 @@ Arcase使用的QQ机器人项目，搭配[Arcaea-server](https://github.com/Lost
     12.bottle插件
     13.main.py拆分工具类
     14.Guy和AiChan修改为表情包而不是图片
-    15.web完善shop和alias or -> 插件
+    15.ArcaseWeb的shop和alias(修改Alias插件的Web链接输出)功能移植 -> 插件
     16.读取arcaea_log.db写一个ptt趋势图
